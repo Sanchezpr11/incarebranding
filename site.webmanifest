@@ -1,0 +1,15 @@
+{
+  "name": "InCare Clinic",
+  "short_name": "InCare",
+  "description": "Endocrinologia, nutricion, control de peso y salud mental. San Juan, Puerto Rico.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDEFEA",
+  "theme_color": "#26302A",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icon.svg", "type": "image/svg+xml", "sizes": "any" }
+  ]
+}
